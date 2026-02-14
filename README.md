@@ -23,6 +23,3 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
 </div>
-
-
-<img src="https://raw.githubusercontent.com/amjedvut/amjedvut/output/snake.svg" alt="Snake animation" />
