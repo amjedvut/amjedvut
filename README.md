@@ -5,7 +5,8 @@
 <a href="https://discord.gg/amjedq7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amjedq7" height="30" width="40" /></a>
 </p>
 
-###
+
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
@@ -23,8 +24,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/amjedvut/amjedvut/output/snake.svg" alt="Snake animation" />
-
-###
