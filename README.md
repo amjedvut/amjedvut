@@ -1,18 +1,10 @@
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">  
-  <a href="https://linkedin.com/in/amjed-quwarah" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linkedin&svgfill=0077B5">
-  </a>
-  
-  <a href="https://discord.com/users/489106051656974368" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=discord&svgfill=5865F2">
-  </a>
+<p align="left">
+  <a href="https://linkedin.com/in/amjed-quwarah" target="_blank"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linkedin&svgfill=0077B5"></a>
+  <a href="https://discord.com/users/489106051656974368" target="_blank"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=discord&svgfill=5865F2"></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">  
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
@@ -22,7 +14,6 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6">
 </p>
-
 
 <!--
 
